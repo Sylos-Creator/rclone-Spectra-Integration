@@ -110,6 +110,7 @@ directories to and from different cloud storage providers.
 - Servercore Object Storage [:page_facing_up:](https://rclone.org/s3/#servercore)
 - SFTP [:page_facing_up:](https://rclone.org/sftp/)
 - SMB / CIFS [:page_facing_up:](https://rclone.org/smb/)
+- Spectra [:page_facing_up:](https://rclone.org/spectra/) - Synthetic filesystem for testing
 - Spectra Logic [:page_facing_up:](https://rclone.org/s3/#spectralogic)
 - StackPath [:page_facing_up:](https://rclone.org/s3/#stackpath)
 - Storj [:page_facing_up:](https://rclone.org/storj/)

@@ -58,6 +58,7 @@ import (
 	_ "github.com/rclone/rclone/backend/sharefile"
 	_ "github.com/rclone/rclone/backend/sia"
 	_ "github.com/rclone/rclone/backend/smb"
+	_ "github.com/rclone/rclone/backend/spectra"
 	_ "github.com/rclone/rclone/backend/storj"
 	_ "github.com/rclone/rclone/backend/sugarsync"
 	_ "github.com/rclone/rclone/backend/swift"
